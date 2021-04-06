@@ -1,6 +1,8 @@
 RadixTree JS
 ============
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 Idiomatic implementation of the Radix trie data structure that is
 fully compatible with `Map` and comes with built-in converter
 to regular expression. E.g.:
