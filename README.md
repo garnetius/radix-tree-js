@@ -11,9 +11,9 @@ to regular expression. E.g.:
 new RadixTree(["zbxad", "zcrad", "zbad", "zad", "ad", "z"]).toString()
 ```
 
-Produces a neat:
+Produces neat:
 
-```
+```bash
 z((cr)?ad|bx?ad)?|ad
 ```
 
